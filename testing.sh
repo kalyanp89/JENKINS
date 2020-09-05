@@ -6,3 +6,4 @@ echo $number
  echo "ADDING some info to see the ouput222"
 echo "PAVANI VOMTING"
 echo "PAVANI beautiful"
+printf '%s\n' "PAVANI waste"
